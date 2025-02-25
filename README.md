@@ -95,7 +95,5 @@ IOS Design :
 
 
 ## 🙏 Acknowledgments
-
 - HubX for the opportunity to work on this case study
 - React Native community for the excellent documentation
-- All contributors who invest time and effort into making this project better 
